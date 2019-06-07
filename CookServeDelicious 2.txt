@@ -1,0 +1,94 @@
+Lasagna
+1 qwerqwerqwe
+2 qwaerqwerqwe
+3 qwserqwerqwe
+4 qwderqwerqwe
+
+Dessert Shots
+1 qqr
+2 eea
+3 waa
+4 qqa
+5 qqs
+6 ras
+7 qwe
+8 eas
+9 qqq
+10 aaa
+
+Soup				Chili
+1 qrs a				1 qwers
+2 wraf				2 qwra
+3 ed e				3 qwras
+4 wrs qws			4 qwead
+5 wras rs
+6 wd qw
+
+Salad
+01 q qwrad a		01. Crisp Texas Greens
+02 r ea w			02. Caesar Salad
+03 q rasd s			O3. Creamy Ranch
+04 q wrasd w		O4. Grilled Chicken Salad
+05 q wrasd q		05. Crispy Chicken Salad
+06 w was ea			06. Thousand Island Special
+07 w qea r			O7. Chopped Pink Salad
+08 w wad			08. Garden Salad
+09 r ea es			O9. Parm Salad Special
+10 q wa				10. Simple Salad
+11 q qwa a			11. House Salad
+12 e asd ea			12. Velvet Salad
+13 e qrad wa		13. The Big Salad
+14 e rasd eas		14. Veggie Life
+
+B Sandwich
+1 qas
+2 wes
+3 eras
+4 qeas
+5 wed
+6 qad
+
+Hamburger
+01 qwra a			01. Classic American
+02 qweea a			02. The Ryan Davis
+03 qraf a			03. Fresh Stack
+04 qwsd wa			04. International Burger
+05 qwerf r			05. The Mechanic
+06 qwes r			06. The Lauren Hiigelburger
+07 qwe qr			O7. Twisty Cow
+08 qf wea			08. Summer Hay
+09 qweer a			09. Bacon Cheeseburger
+10 qwf ea			10. Prime Burger
+11 qqe a			11. The Double
+12 qqwes qr			12. The Lumberjack
+13 qqwe a			13. Dr.Feelgood
+14 qq a				14. Parallel Patties
+15 qqrad ea			15. Burger Time
+16 qqwees a			16. The Heartstopper
+17 qqqweef qwa		17. Triple Tower
+18 qqqwrs er		18. Stacked Panic
+19 qqqwees a		19. The Beltsmasher
+20 qqqweerasf wa	20. The Destroyer
+
+Hot Dog
+1 q qwa
+2 q qws
+3 q qera
+4 q qe
+5 e a
+6 e qs
+7 e ras
+8 e w
+9 w q
+10 w ras
+11 w
+12 w qweras
+
+Omelettes
+1 qrasd a			Classic Omelette
+2 qera				Hammy Sunrise
+3 qr qwea			The Pepper and the Egg
+4 qwrf r			The Doze-Cheesy Squeezy
+5 qwrasf ra			Deluxe Omelette
+6 qwsdf qwa			Ultra Veggie Stacker
+
