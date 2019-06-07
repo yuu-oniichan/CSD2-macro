@@ -3,3 +3,5 @@ This script uses Capture2Text to do OCR reading of the recipe titles for the aut
 Game keys are universally mapped to qwer, then asdf.
 
 Ultimately, creating a program that can play the game by itself would be an endgoal, but for now, a program to assist a human player with managing food creation is a start.
+
+Inspired by https://github.com/pbrotoisworo/CSDOCR and https://github.com/OGordon100/CSD-Inator
